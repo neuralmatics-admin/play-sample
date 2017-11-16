@@ -1,8 +1,9 @@
-[<img src="https://img.shields.io/travis/playframework/play-java-starter-example.svg"/>](https://travis-ci.org/playframework/play-java-starter-example)
 
-# play-java-starter-example
+# play-java-sample application v2.6 + MongoDB
 
-This is a starter application that shows how Play works.  Please see the documentation at https://www.playframework.com/documentation/latest/Home for more details.
+This is a starter application that has base setup of Play 2.6 with MongoDB as database (Morphia lib). This repository will constantly updated on better changes.   
+
+Please see the documentation at https://www.playframework.com/documentation/latest/Home for more details.
 
 ## Running
 
